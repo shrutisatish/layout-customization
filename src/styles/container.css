@@ -1,0 +1,42 @@
+li {
+    border: 1px black solid;
+    overflow: auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 30%;
+}
+
+.container--message {
+    border-top: 1px solid #ccc;
+}
+
+.container--icons--RUNNING {
+    background-color: #f0b800;
+    left: 20px;
+}
+
+.container--icons--PASSED {
+    background-color: #4f913a;
+}
+
+.container--icons--FAILED {
+    background-color: #d81f28;
+}
+
+.container--icons--IDLE {
+    background-color: #7a7a7a;
+}
+
+.action--button {
+    padding: 5px;
+}
+
+.reset--btn {
+    padding: 10px;
+    display: inline-grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin-left: 37.5%;
+
+}
+
+
