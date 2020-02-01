@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/layout-customization/static/css/main.407ba052.chunk.css",
+    "main.js": "/layout-customization/static/js/main.a9e0fea1.chunk.js",
+    "main.js.map": "/layout-customization/static/js/main.a9e0fea1.chunk.js.map",
+    "runtime-main.js": "/layout-customization/static/js/runtime-main.7150e497.js",
+    "runtime-main.js.map": "/layout-customization/static/js/runtime-main.7150e497.js.map",
+    "static/css/2.f0dd31b4.chunk.css": "/layout-customization/static/css/2.f0dd31b4.chunk.css",
+    "static/js/2.c078114b.chunk.js": "/layout-customization/static/js/2.c078114b.chunk.js",
+    "static/js/2.c078114b.chunk.js.map": "/layout-customization/static/js/2.c078114b.chunk.js.map",
+    "index.html": "/layout-customization/index.html",
+    "precache-manifest.a3c8c5967f3531b883d63b5c34af6c3a.js": "/layout-customization/precache-manifest.a3c8c5967f3531b883d63b5c34af6c3a.js",
+    "service-worker.js": "/layout-customization/service-worker.js",
+    "static/css/2.f0dd31b4.chunk.css.map": "/layout-customization/static/css/2.f0dd31b4.chunk.css.map",
+    "static/css/main.407ba052.chunk.css.map": "/layout-customization/static/css/main.407ba052.chunk.css.map",
+    "static/js/2.c078114b.chunk.js.LICENSE": "/layout-customization/static/js/2.c078114b.chunk.js.LICENSE",
+    "static/media/mdb.css": "/layout-customization/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/layout-customization/static/media/fa-solid-900.f6121be5.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7150e497.js",
+    "static/css/2.f0dd31b4.chunk.css",
+    "static/js/2.c078114b.chunk.js",
+    "static/css/main.407ba052.chunk.css",
+    "static/js/main.a9e0fea1.chunk.js"
+  ]
+}
