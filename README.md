@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Please visit https://github.com/shrutisatish/layout-customization for a demo.
+Please visit https://shrutisatish.github.io/layout-customization for a demo.
 
 ## Available Scripts
 
