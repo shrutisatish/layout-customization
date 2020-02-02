@@ -5,9 +5,9 @@ Please visit https://shrutisatish.github.io/layout-customization for a demo.
 ## Project Description
 
 This project demonstrates how one can provide layout customizations i.e. switch between a grid view v/s a list view
-The grid view is very responsive and provides the following features to the user:
---> resizability
---> dragibility
+The grid view is very responsive and provides the following features to the user:<br/>
+--> resizability<br/>
+--> dragibility<br/>
 --> saving layout positions to local storage.
 
 ## Available Scripts
