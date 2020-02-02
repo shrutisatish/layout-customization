@@ -2,6 +2,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Please visit https://shrutisatish.github.io/layout-customization for a demo.
 
+## Project Description
+
+This project demonstrates how one can provide layout customizations i.e. switch between a grid view v/s a list view
+The grid view is very responsive and provides the following features to the user:
+--> resizability
+--> dragibility
+--> saving layout positions to local storage.
+
 ## Available Scripts
 
 In the project directory, you can run:
